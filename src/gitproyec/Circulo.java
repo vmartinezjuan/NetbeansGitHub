@@ -1,7 +1,7 @@
 //Created dir: G:\DAM\Programacion\documentacion1\dist\javadoc
 
 package gitproyec;
-/**
+/** MODIFICO EN GigHub
  * @author Vicente Martinez Juan
  * @version circulo 26-04/2018
  */
